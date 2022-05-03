@@ -1,9 +1,9 @@
-//Programming assignment 2
+
 
 import java.util.Scanner; //CLASS THAT WILL CAPTURE IMPUT
 import java.util.Calendar; //CLASS TO GET THE SATE AND TIME
 
-public class KriechRAlvarezF003PA2
+public class receiptCode
 {
   private static Scanner input = new Scanner(System.in);
   private static Calendar dateTime = Calendar.getInstance();
